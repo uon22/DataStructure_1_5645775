@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "linearList_14¿Ï¼º_5645775_ÃÖÁö¼ö.h"
+#include "linearList_14ì™„ì„±_5645775_ìµœì§€ìˆ˜.h"
 
 listType* createList(int size) {
     listType* lptr = (listType*)malloc(sizeof(listType));
